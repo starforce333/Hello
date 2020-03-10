@@ -14,5 +14,10 @@ public class Scan {
         int b = sc.nextInt();
         int c = a + b;
         System.out.println("a + b = " + c);
+        float v = 324.23432f;
+        int k = 6;
+        int z = (int) (k + v);
+        char j = 'f';
+
     }
 }
